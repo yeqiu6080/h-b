@@ -3,11 +3,11 @@
   <title>Y68Blog</title>
   
   
-  <link href="https://yeqiu6080.github.io/atom.xml" rel="self"/>
+  <link href="https://yeqiu6080.github.io/blog/atom.xml" rel="self"/>
   
-  <link href="https://yeqiu6080.github.io/"/>
+  <link href="https://yeqiu6080.github.io/blog/"/>
   <updated>2022-11-26T11:21:06.559Z</updated>
-  <id>https://yeqiu6080.github.io/</id>
+  <id>https://yeqiu6080.github.io/blog/</id>
   
   <author>
     <name>Y68</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://yeqiu6080.github.io/2022/11/26/hello-world/"/>
-    <id>https://yeqiu6080.github.io/2022/11/26/hello-world/</id>
+    <link href="https://yeqiu6080.github.io/blog/2022/11/26/hello-world/"/>
+    <id>https://yeqiu6080.github.io/blog/2022/11/26/hello-world/</id>
     <published>2022-11-26T11:21:06.559Z</published>
     <updated>2022-11-26T11:21:06.559Z</updated>
     
